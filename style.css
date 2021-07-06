@@ -55,6 +55,11 @@ a{
     margin-bottom: 10px;
 }
 
+
+img {
+    border-radius: 50%;
+  }
+
 .section-2 p{
     font-size: 1.1rem;
     padding-bottom: 10px;
